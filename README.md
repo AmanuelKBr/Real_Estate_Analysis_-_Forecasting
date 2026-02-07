@@ -42,7 +42,8 @@ This work reflects core responsibilities of a **Data Scientist in real estate, f
 ## 📂 Project Structure
 
 ```bash
-├── Real_Estate_Analysis.ipynb     # EDA, feature engineering & forecasting
+├── Real_Estate_Analysis.ipynb    # EDA, feature engineering & forecasting
+├── kc_house_data.csv             # Project datasource
 ├── README.md                     # Project documentation
 ```
 
