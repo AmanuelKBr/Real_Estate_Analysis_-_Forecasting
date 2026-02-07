@@ -43,7 +43,7 @@ This work reflects core responsibilities of a **Data Scientist in real estate, f
 
 ```bash
 ├── Real_Estate_Analysis.ipynb    # EDA, feature engineering & forecasting
-├── kc_house_data.csv             # Project datasource
+├── kc_house_data.csv             # Raw project dataset
 ├── README.md                     # Project documentation
 ```
 
